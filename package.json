@@ -30,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/andrew/Cossak.git"
+    "url": "git://github.com/askl56/Cossak.git"
   },
-  "author": "andrew",
-  "license": ""
+  "author": "askl56",
+  "license": "MIT"
 }
